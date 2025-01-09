@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        bg: "url('./src/img/bg.png')",
+        bg: "url('/images/bg.png')",
       },
       boxShadow: {
         main: "0 8px 32px rgba(0, 0, 0, 0.5)",
